@@ -1,0 +1,12 @@
+.info-primary{
+    background-color: #1CC7C1;
+    border-radius: 4px;
+}
+.infoIcon{
+    font-size: 3em;
+    margin-right: 10px;
+}
+.info-dark{
+    background-color: #3A4256;
+    border-radius: 4px;
+}
