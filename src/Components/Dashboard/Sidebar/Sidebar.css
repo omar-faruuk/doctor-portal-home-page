@@ -1,0 +1,25 @@
+.sidebar{
+    background: linear-gradient(#289daa, #8becef);
+    height: 100%;
+    padding: 50px;
+    position: fixed;
+    
+}
+ul, li{
+    margin: 0;
+    padding: 0;
+}
+  nav ul li:first-child{
+      margin-top: 0;
+  }
+  nav ul li a{
+      color: white;
+      
+  }
+  nav ul li span{
+      margin-right: 8px;
+  }
+  nav ul li{
+    margin-bottom: 20px;
+  }
+  

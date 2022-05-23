@@ -12,7 +12,7 @@ const MakeAppointment = () => {
                 <div className="col-md-5">
                     <img src={doctor} className='' alt="" />
                 </div>
-                <div style={{zIndex: '1'}} className="col-md-7 text-white">
+                <div style={{zIndex: '1'}} className="col-md-6 text-white">
                     <h4 className='text-primary mt-4'>APPOINTMENT</h4>
                     <h2 className='text-white mt-4'>Make an appointment today</h2>
                     <p className='mt-4'>Lorem ipsum dolor sit amet consectetur,Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, laboriosam. adipisicing elit. Atque, ad.</p>

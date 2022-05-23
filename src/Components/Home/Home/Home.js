@@ -2,7 +2,7 @@ import React from 'react';
 import Blogs from '../Blogs/Blogs';
 import ContactUs from '../ContactUs/ContactUs';
 import Doctors from '../Doctors/Doctors';
-import Footer from '../Footer/Footer';
+import Footer from '../../Shared/Footer/Footer';
 import Header from '../Header/Header';
 import MakeAppointment from '../MakeAppointment/MakeAppointment';
 import ServicessInfo from '../ServicessInfo/ServicessInfo';
